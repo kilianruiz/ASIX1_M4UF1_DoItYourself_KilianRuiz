@@ -7,4 +7,6 @@ Regla 2. Los elementos ```body```, ```img``` tendrán un ```padding left``` y un
 
 Regla 3. Los elementos ```div```  tendrán que tener un relleno del ```5%```, un witdh del 100%, un border: solid rgb(139, 0, 5) 1px, esquinas redondeadas con un valor de 5px y un este color de fondo background-color: rgb(235, 233, 233).
 
-Regla 4. 
+Regla 4. Los elementos ```strong``` y ```h1``` tendrán este color ```color:firebrick```
+
+Regla 5.

@@ -11,12 +11,12 @@ Regla 4. Los elementos ```strong``` y ```h1``` tendrán este color ```color:fire
 
 Regla 5. Los elementos ```img```  tendrán que tener las esquinas redondeadas con un valor del ```25%```
 
-Regla 6. Los elementos ```negrita``` de una class tendrán un color  ```color:black;```
+Regla 6. Los elementos ```negrita``` de una ```class``` tendrán un color  ```color:black;```
 
-Regla 7. Los elementos ```rojo``` de un id tendrán  un color ```color:firebrick ;```
+Regla 7. Los elementos ```rojo``` de un ```id``` tendrán  un color ```color:firebrick ;```
 
 Regla 8. Los elementos ```em``` que sean hijos de un ```strong``` tendrán un color de fondo en negro.
 
 Regla 9. Los elementos ```strong``` que sean hijos de un ```li``` tendrán que llevar un color ```color:green;```
 
-Regla 10. Los elementos ```Trojo``` de una class tendrán un color ```color:firebrick ;```
+Regla 10. Los elementos ```Trojo``` de una ```class``` tendrán un color ```color:firebrick ;```

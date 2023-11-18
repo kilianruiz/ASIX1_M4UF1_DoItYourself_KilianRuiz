@@ -9,4 +9,4 @@ Regla 3. Los elementos ```div```  tendrán que tener un relleno del ```5%```, un
 
 Regla 4. Los elementos ```strong``` y ```h1``` tendrán este color ```color:firebrick```
 
-Regla 5.
+Regla 5. Los elementos ```img```  tendrán que tener las esquinas redondeadas con un valor del ```25%```
